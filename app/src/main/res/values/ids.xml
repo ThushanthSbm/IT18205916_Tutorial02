@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txtName2" type="id">txtname2</item>
+    <item name="edtNum1" type="id">edtnum1</item>
+    <item name="edtNum2" type="id">edtnum2</item>
+    <item name="btnSend2" type="id">btnsend2</item>
+    <item name="editName" type="id">editName</item>
+    <item name="btnSend" type="id">btnsend</item>
+    <item name="edtnum1" type="id">edtNum1</item>
+    <item name="edtum1edt" type="id">EdtNum1</item>
+    <item name="edtnum2" type="id">EdtNum2</item>
+</resources>

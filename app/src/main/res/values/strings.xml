@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tute2</string>
+    <string name="txtName">txtName</string>
+    <string name="BtnSend">btnSend</string>
+    <string name="btnSend">Button</string>
+    <string name="num1">num1</string>
+    <string name="num2">num2</string>
+    <string name="btnSendbtnSend">button</string>
+    <string name="n1">n1</string>
+    <string name="n2">n2</string>
+    <string name="ans">ans</string>
+    <string name="editName">editName</string>
+</resources>
